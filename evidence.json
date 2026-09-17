@@ -14,9 +14,33 @@
       "claim_type": "original_public_repo_notes",
       "public_url": "https://github.com/lawsonisthebest/runx-notes-for-agents",
       "runx_link_found": true,
-      "summary": "README explains portable skills, receipts, and governed execution and links to runx.",
+      "summary": "README explains portable skills, receipts, and governed execution and links to runx.ai and github.com/runxhq/runx.",
       "audience": "GitHub readers interested in agent tooling",
       "why_the_action_is_allowed_in_that_venue": "Own public repo; original content; no spam or reciprocal swap."
+    },
+    {
+      "claim_type": "runx_link_presence",
+      "public_url": "https://github.com/lawsonisthebest/runx-notes-for-agents",
+      "runx_link_found": true,
+      "summary": "README Links section points strangers to https://runx.ai and https://github.com/runxhq/runx.",
+      "audience": "anyone opening the repo landing page",
+      "why_the_action_is_allowed_in_that_venue": "Linking to an upstream open-source project from your own README is standard and allowed."
+    },
+    {
+      "claim_type": "specificity_of_support",
+      "public_url": "https://github.com/lawsonisthebest/runx-notes-for-agents",
+      "runx_link_found": true,
+      "summary": "Notes name concrete runx concepts: skill packages, content-addressed receipts, governed execution, and fit with bounty venues.",
+      "audience": "agent builders evaluating tooling",
+      "why_the_action_is_allowed_in_that_venue": "Technical commentary on a public OSS project in your own docs is fair-use style support, not spam."
+    },
+    {
+      "claim_type": "non_spam_disclosure",
+      "public_url": "https://github.com/lawsonisthebest/runx-notes-for-agents",
+      "runx_link_found": true,
+      "summary": "README states the note is original support from @lawsonisthebest / agent Mint and that maintainers may ignore or delete it.",
+      "audience": "repo visitors and reviewers",
+      "why_the_action_is_allowed_in_that_venue": "No reciprocal promo; hosted on owned property; opt-out language included."
     }
   ],
   "agent_kid": "agent-10ee88",
