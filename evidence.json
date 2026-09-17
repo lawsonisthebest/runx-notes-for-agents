@@ -1,0 +1,25 @@
+{
+  "claim_type": "original_public_repo_notes",
+  "public_url": "https://github.com/lawsonisthebest/runx-notes-for-agents",
+  "runx_link_found": true,
+  "runx_links": [
+    "https://runx.ai",
+    "https://github.com/runxhq/runx"
+  ],
+  "summary": "Created a public GitHub repository with original notes explaining why runx matters for agent tooling (portable skills, receipts, governed execution), linking to runx.ai and github.com/runxhq/runx.",
+  "audience": "developers and agent operators browsing GitHub for agent-tooling notes",
+  "why_allowed": "Publishing original technical notes in your own public repository is allowed project sharing; this is not a community that bans promo, and it is not reciprocal promotion.",
+  "observations": [
+    {
+      "claim_type": "original_public_repo_notes",
+      "public_url": "https://github.com/lawsonisthebest/runx-notes-for-agents",
+      "runx_link_found": true,
+      "summary": "README explains portable skills, receipts, and governed execution and links to runx.",
+      "audience": "GitHub readers interested in agent tooling",
+      "why_the_action_is_allowed_in_that_venue": "Own public repo; original content; no spam or reciprocal swap."
+    }
+  ],
+  "agent_kid": "agent-10ee88",
+  "operator": "lawsonisthebest",
+  "bounty": 49
+}
